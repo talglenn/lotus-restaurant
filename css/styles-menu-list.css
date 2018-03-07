@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+body
+{
+  font-family: 'Roboto', sans-serif;
+  margin: 0px;
+  padding: 0px;
+  color:#744;
+  
+}
+
+a
+{
+  color: #744;
+  text-decoration: none;
+}
+
+a.nav
+{
+  font-family:"Rage Italic" "Century Gothic" sans-serif;
+  font-size:18pt;
+}
+
+a.menu_nav
+{
+  font-size:12pt;
+}
+
+a:hover
+{
+  color: #F44;
+}
+
+img
+{
+  margin: 0px;
+  border: 0px;
+}
+
+table
+{
+  margin: 0px;
+  border: 0px;
+  border-collapse: collapse;
+}
+
+td
+{
+  padding: 0px;
+  border: 0px;
+}
+
+td.c1
+{
+  text-align:right;
+  width:30px;
+  font-size:80%;
+}
+
+td.c2
+{
+  width:30px;
+  font-size:80%;
+}
+
+td.c3
+{
+  width:100%;
+  text-align:left;
+  font-size:80%;
+}
+
+td.c4
+{
+  width:30px;
+  text-align:right;
+  padding-left: 10px;
+  font-size:80%;
+}
+
+td.c5
+{
+  width:30px;
+  text-align:right;
+  padding-left: 10px;
+  font-size:80%;
+}
+
+hr
+{
+  width:50%;
+  color:#275E33;
+}
+
+.hot
+{
+  color:red;
+}
+
+.menu_price
+{
+  color:#275E33;
+  font-size:120%;
+}
+
+.menu_header
+{
+  color:#275E33;
+}
+
+
+
+
+
